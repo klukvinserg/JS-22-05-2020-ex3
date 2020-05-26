@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    width: 70%;
+    background-color: rgb(51, 58, 126);
+    margin: auto;
+    margin-top: 100px;
+    color: rgb(178, 183, 231);
+    border-top: 2px solid  rgb(23, 26, 46);
+    border-left: 2px solid  rgb(23, 26, 46);
+    border-right: 2px solid  rgb(23, 26, 46);
+    box-sizing: border-box;
+}
+
+.blockDiv {
+   cursor: default;
+   box-sizing: border-box;
+   border-bottom: 2px solid  rgb(23, 26, 46);;
+}
+
+.blockDivInner {
+    display: none;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+h3 {
+    margin: 5px;
+}
