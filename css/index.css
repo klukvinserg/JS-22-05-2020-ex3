@@ -25,6 +25,7 @@
     display: none;
     padding: 5px;
     box-sizing: border-box;
+    background-color: rgb(125, 131, 185);
 }
 
 h3 {
